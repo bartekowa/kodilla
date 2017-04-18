@@ -1,0 +1,51 @@
+[class*="example"]{
+  min-height:300px;
+}
+
+.example-1 {
+	background-color:#59ABE3;
+}
+
+.example-2 {
+	background-color:#f8b706;
+}
+
+.example-3 {
+	background-color: #F89406;
+}
+
+.example-4 {
+	background-color:#F22613;
+}
+
+.example-5 {
+	background-color: skyblue;
+}
+
+.carousel-inner {
+	text-align: center;
+}
+
+img {
+	height: 100%;
+	object-fit: cover;
+}
+
+.item {
+	height: 15vh;
+}
+
+.carousel h2 {
+	font-size: 40px;
+	color: red;
+	text-transform: uppercase;
+}
+
+.nav-pills {
+	margin-top: 30px;
+}
+
+.tab-content h3, .tab-content p {
+	text-align: center;
+	margin-bottom: 20px;
+}
